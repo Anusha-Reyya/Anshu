@@ -7,6 +7,8 @@ set -o pipeline
 
 nproc
 
+#anushu
+
 pwd
 
 
